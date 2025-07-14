@@ -25,6 +25,4 @@ Logarithm: 3.2188758248682006
 Sine: -0.13235175009777303
 ```
 
-## How to Run
-Execute both scripts individually using a Python interpreter.
-Ensure the input is valid for respective mathematical functions.
+
